@@ -1,0 +1,28 @@
+Những việc cần làm:
+
+	Idea: viết storyline
+	Sprite   Trí
+	Nhạc
+
+
+	Dựng game:  màn hình giới thiệu, =>https://www.youtube.com/watch?v=RsgiYqLID-U
+			, các animation cho nhân vật
+				Khang
+
+			background, titlemap(collider) 3 level?
+			, obstacles
+				Lực  
+
+
+Move camera, các object tĩnh, physic
+https://www.trochoi.net/tr%C3%B2+ch%C6%A1i/tired-to-fall.html
+
+
+Some more requirement:
+	Advanced requirements (1đ): 
+		suitable for a variety of players
+		Auto Play System
+		Construction of shopping area
+		Publish your game to the Google
+	Video or poster
+	Report
