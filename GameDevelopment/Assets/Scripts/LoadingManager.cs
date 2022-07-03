@@ -5,11 +5,17 @@ using UnityEngine.SceneManagement;
 
 public class LoadingManager : MonoBehaviour
 {
+    public static float volume;
+    [SerializeField] public AudioSource audioSource;
+
+    private void Awake(){
+        print("LoadingManager awake");
+        print("Volum is" + volume.ToString());
+        audioSource.volume = volume;
+    }
+
     private void Update(){
-        if(Input.GetKeyDown(KeyCode.M)){
-            SceneManager.LoadScene(1);
-        }
-        if(Input.GetKeyDown(KeyCode.N)){
+        if(Input.GetKeyDown(KeyCode.Escape)){
             SceneManager.LoadScene(0);
         }
     }

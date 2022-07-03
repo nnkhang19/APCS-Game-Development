@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class CheckpointEndLevel : MonoBehaviour
 {
     [SerializeField] private AudioClip checkpointSound;
+    [SerializeField] private GameObject winingCanvas;
     private Animator animator;
     private void Awake(){
         animator = GetComponent<Animator>();
@@ -18,8 +19,9 @@ public class CheckpointEndLevel : MonoBehaviour
     }
     private void LoadNewLevel(){
         int newLevel = SceneManager.GetActiveScene().buildIndex + 1;
-        if(newLevel > 1)
-            newLevel = 0;
-        SceneManager.LoadScene(newLevel);
+        if(newLevel > 2)
+            winingCanvas.SetActive(true);
+        else
+            SceneManager.LoadScene(newLevel);
     }
 }

@@ -1,0 +1,12 @@
+Advanced requirements:
+	+The game or application has a specific content (ie: storyline). The plot
+should be good, suitable for a variety of players.
+	+Build your game to adapt many screens resolutions
+(add thêm thành phần Canvas Scaler và anchor presets của
+UI dùng tương đối (upper left))
+	+Build Intelligent Enemy System - Artificial Intellegent (AI):
+cho enemy đi tuần tra giữa hai tạo độ xác định trước,
+nó dùng Physics2D.BoxCast để kiểm tra xem player có vào 
+vùng tấn công không, nếu player ở trong vùng tấn công, nó
+sẽ bắt đầu attack.
+	
