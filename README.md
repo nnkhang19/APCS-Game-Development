@@ -3,7 +3,7 @@
 ## Members: 
 1. Cao Thiên Trí - 19125034
 2. Ngô Nhật Khang - 19125050
-3. Dương Văn Khoa - 19125
+3. Dương Văn Khoa - 19125099
 4. Huỳnh Tuấn Lực - 19125106
 
 ## Introduction
