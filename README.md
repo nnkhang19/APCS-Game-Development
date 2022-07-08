@@ -8,7 +8,7 @@
 
 ## Introduction
 - Crystal world is an arcade, adventure 2d-platform game. 
-- The game features a female adventurer who is on her journey to find hidden treasures. On the way, she encounters monsters, traps, etc. but those things cannot stop her way to become richer and famous among the adventurers community. 
+- The game features a female adventurer who is on his journey to find hidden treasures. On the way, he encounters monsters, traps, etc. but those things cannot stop his way to become richer and famous among the adventurers community. 
 - It is definitely worth playing, press the start button and enjoy the game.
 - It is recommended by our developers to turn on the audio for better gameplay experience.
 - This game was created using Unity 2020.3.14f1.
