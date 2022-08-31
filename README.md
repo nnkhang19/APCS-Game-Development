@@ -7,11 +7,11 @@
 4. Huỳnh Tuấn Lực - 19125106
 
 ## Introduction
-- Crystal world is an arcade, adventure 2d-platform game. 
-- The game features a female adventurer who is on his journey to find hidden treasures. On the way, he encounters monsters, traps, etc. but those things cannot stop his way to become richer and famous among the adventurers community. 
-- It is definitely worth playing, press the start button and enjoy the game.
-- It is recommended by our developers to turn on the audio for better gameplay experience.
+- A 3D game that allows player to move around and enjoy the forest scenary from first-person point of view.
+- Beautiful terrain are created with animated animals, attracting flowers, guiding arrows, and tools to use.
 - This game was created using Unity 2020.3.14f1.
 
 ## Resources
-- This game uses awesome sprites from this great source https://szadiart.itch.io/crystal-world-platformer-set. Credit to @Szadi.
+- https://www.youtube.com/watch?v=ddy12WHqt-M&t=6s
+- https://www.youtube.com/watch?v=THnivyG0Mvo
+
